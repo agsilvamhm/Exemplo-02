@@ -15,7 +15,7 @@ export class AppComponent {
     this.pages = [
       {title: 'Alerts', url:'alerts', icon: 'alert-circle'},
       {title: 'Inputs', url:'inputs', icon: 'brush'},
-      {title: 'Lists', url:'lists', icon: 'list'},
+      {title: 'List', url:'list', icon: 'list'},
       {title: 'CheckBox', url:'checkbox', icon: 'checkmark'},
       {title: 'Cards', url:'cards', icon: 'card'},
       {title: 'Range', url:'range', icon: 'bar-chart'},
