@@ -18,11 +18,10 @@ export class AppComponent {
       {title: 'Lists', url:'lists', icon: 'list'},
       {title: 'CheckBox', url:'checkbox', icon: 'checkmark'},
       {title: 'Cards', url:'cards', icon: 'card'},
-      {title: 'Range', url:'range', icon: 'bar-chat'},
+      {title: 'Range', url:'range', icon: 'bar-chart'},
       {title: 'Toast', url:'toast', icon: 'grid'},
       {title: 'Badges', url:'badges', icon: 'cloudy'},
       {title: 'Toggles', url:'toggles', icon: 'toggle'}
     ];
   }
-
 }
